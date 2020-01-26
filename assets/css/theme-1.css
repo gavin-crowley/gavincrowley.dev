@@ -9600,6 +9600,9 @@ hr {
 .overview-section .item-icon .fa-java {
   color: #2e68ab;
 }
+.overview-section .item-icon .fa-github {
+  color: #000;
+}
 .overview-section .item-icon .fa-html5,
 .overview-section .item-icon .fa-html5-alt {
   color: #de6e3c;
